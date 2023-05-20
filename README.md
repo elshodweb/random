@@ -72,7 +72,7 @@ These utility functions can be particularly useful in various scenarios, includi
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/example/math-utils-package).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/tukhtamurodov/random).
 
 ## License
 
