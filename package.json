@@ -1,0 +1,16 @@
+{
+  "name": "random-from-to",
+  "version": "2.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "random-from-to",
+    "packages",
+    "npm",
+    "numbers",
+    "math"
+  ],
+  "author": "elshodbek",
+  "license": "ISC"
+}
