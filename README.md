@@ -1,6 +1,7 @@
 # Math Utils Package
 
-[![npm version](https://badge.fury.io/js/math-utils-package.svg)](https://badge.fury.io/js/random-from-to)
+[![версия npm](https://badge.fury.io/js/random-from-to.svg)](https://www.npmjs.com/package/math-utils-package)
+
 
 The Math Utils package provides a set of useful mathematical utility functions that can be used in JavaScript applications. This package includes the following functions:
 
@@ -74,9 +75,7 @@ These utility functions can be particularly useful in various scenarios, includi
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/tukhtamurodov/random).
 
-## License
-
-This package is released under the [MIT License](https://opensource.org/licenses/MIT).
+## @powered by [elshod](https://t.me/the_elshod)
 
 ---
 
