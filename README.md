@@ -1,4 +1,7 @@
 # Math Utils Package
+Generates a random number between two given values.
+===
+
 
 [![версия npm](https://badge.fury.io/js/random-from-to.svg)](https://www.npmjs.com/package/random-from-to)
 
@@ -14,13 +17,13 @@ The Math Utils package provides a set of useful mathematical utility functions t
 To install the Math Utils package, you can use npm or yarn:
 
 ```shell
-npm install math-utils-package
+npm install random-from-to
 ```
 
 or
 
 ```shell
-yarn add math-utils-package
+yarn add random-from-to
 ```
 
 ## Usage
@@ -28,7 +31,7 @@ yarn add math-utils-package
 To use the functions provided by this package, you need to import them into your JavaScript code:
 
 ```javascript
-const { random, geometricMean, arithmeticMean } = require('math-utils-package');
+const { random, geometricMean, arithmeticMean } = require('random-from-to');
 ```
 
 ### Generating a Random Number
