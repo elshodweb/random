@@ -1,6 +1,6 @@
 {
   "name": "random-from-to",
-  "version": "2.3.3",
+  "version": "2.4.3",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -9,7 +9,10 @@
     "packages",
     "npm",
     "numbers",
-    "math"
+    "math",
+    "geometric",
+    "arithmetic",
+    "mean"
   ],
   "author": "elshodbek",
   "license": "ISC"
